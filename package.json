@@ -1,0 +1,13 @@
+{
+  "name": "sync-server-app-basic-example",
+  "version": "1.0.0",
+  "description": "Aerogear Apollo Voyager Basic Example",
+  "main": "server.js",
+  "repository": "https://github.com/wojta/sync-server-app-basic-example",
+  "author": "Vojtěch Sázel <vsazel@redhat.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@aerogear/apollo-voyager-server": "^0.1.7",
+    "graphql": "^14.0.2"
+  }
+}
